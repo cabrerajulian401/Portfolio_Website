@@ -8,7 +8,7 @@ const Projects = () => {
       title: 'CardMatch AI - Capital One',
       description: 'Won Second Place at Capital One Tech Summit Hackathon!  CardMatchAI is a personalized credit card recommendation app.In this, I solved a major complexity by designing a parallel multi-agent architecture using Python\'s ThreadPoolExecutor & LangGraph instead of a single expensive GPT-4o Turbo model. This split the 80+ Credit Card Database across 3 specialized sub-agents running simultaneously,  reducing loading time by 66% while intelligently filtering cards to find perfect matches.',
       image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop',
-      video: '/cardmatch-demo.mp4',
+      video: '/My Movie 9.mp4',
       tech: ['React', 'FastAPI', 'LangGraph', 'Python', 'Multi-Agent LLM', 'ThreadPoolExecutor'],
       github: 'https://github.com/cabrerajulian401/2nd-Place---CardMatchAI---Capital-One-Hackathon',
       live: 'https://cardmatchai.info/',
