@@ -25,7 +25,7 @@ const Footer = () => {
             {/* Brand & Description */}
             <div className="space-y-4 text-center">
               <h3 className="text-xl font-bold text-foreground">Julian Cabrera</h3>
-              <p className="text-muted-foreground text-sm leading-relaxed">
+              <p className="text-muted-foreground text-sm leading-relaxed px-4 sm:px-0">
                 Software Engineer & Entrepreneur passionate about AI/ML, startup innovation, 
                 and building solutions that make a real impact.
               </p>
