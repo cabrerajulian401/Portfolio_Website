@@ -160,13 +160,13 @@ const Experience = () => {
                             rel="noopener noreferrer"
                             className="hidden lg:flex items-center gap-4 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg text-sm font-medium transition-colors"
                           >
-                            <img 
-                              src="/src/components/Assets/channels4_profile.jpg" 
-                              alt="YouTube Channel" 
-                              className="w-12 h-12 rounded-full object-cover"
-                            />
+                            <div className="w-12 h-12 rounded-full bg-red-600 flex items-center justify-center">
+                              <svg className="w-10 h-10 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                              </svg>
+                            </div>
                             <div className="flex flex-col">
-                              <span>Watch My Lectures on YouTube</span>
+                              <span>Watch My Lectures</span>
                               <span className="text-xs opacity-90">@JulianComputerScienceLectures</span>
                             </div>
                           </a>
