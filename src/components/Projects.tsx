@@ -36,7 +36,7 @@ const Projects = () => {
       title: 'GOLang Credit Card Transaction Service API',
       description: 'Built a scalable transaction authorization service using Go. Created a stateless, concurrent API server with POST /authorize and GET /authorizations endpoints. ',
       image: '/golang-project.png',
-      tech: ['Go', 'REST API', 'Concurrency', 'HTTP Server'],
+      tech: ['Go', 'REST API', 'PostgreSQL' 'Concurrency', 'HTTP Server'],
       github: 'https://github.com/cabrerajulian401/yendo-auth-api',
       live: null,
       featured: false
