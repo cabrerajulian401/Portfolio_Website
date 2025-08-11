@@ -37,7 +37,7 @@ const Projects = () => {
       description: 'Built a scalable transaction authorization service using Go, HTTP servers & a PostgreSQL. Authorizes Transactions with concurrent API endpoints. ',
       image: '/golang-project.png',
       tech: ['Go', 'REST API', 'PostgreSQL', 'AWS', 'HTTP Server'],
-      github: 'https://github.com/cabrerajulian401/yendo-auth-api',
+      github: 'hhttps://github.com/cabrerajulian401/Credit-auth-api',
       live: null,
       featured: false
     },
