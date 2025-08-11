@@ -15,7 +15,7 @@ const About = () => {
           <div className="space-y-8">
             <p className="text-lg text-muted-foreground leading-relaxed">
             
-             Howdy! I am Julian Cabrera, a North Carolinian who moved to Dallas to study Computer Science and Mathematics at Southern Methodist University.
+             Hey there! I am Julian Cabrera, a North Carolinian who moved to Dallas to study Computer Science and Mathematics at Southern Methodist University.
              I used to love building legos particularly Star Wars legos as a kid and I still continue to build, except now with software. I am a ambitious Software Engineer with specializations in backend engineering & machine learning. I love fast-paced working environments 
               and being surrounded by passionate and conscientious individuals.
             </p>
