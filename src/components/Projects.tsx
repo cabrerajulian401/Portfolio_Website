@@ -33,7 +33,7 @@ const Projects = () => {
       featured: true
     },
     {
-      title: 'GoLang Credit Card Transaction Service API',
+      title: 'GoLang Debit Card Transaction Service API',
       description: 'Built a scalable transaction authorization service using Go, HTTP servers & a PostgreSQL. Authorizes Transactions with concurrent API endpoints. ',
       image: '/golang-project.png',
       tech: ['Go', 'REST API', 'PostgreSQL', 'AWS', 'HTTP Server'],
