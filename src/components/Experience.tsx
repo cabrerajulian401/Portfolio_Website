@@ -23,7 +23,7 @@ const Experience = () => {
       title: 'Capital One Tech Summit | 2nd Place Hackathon Award',
       company: 'Capital One',
       location: 'Virtual',
-      period: '06/2024 – Present',
+      period: 'July 2025',
       description: [
         'Participated in a 5% acceptance rate tech summit attending courses covering Express.js, React, and programming an Arduino in C, taught directly by Capital One engineers',
         'Placed 2nd out of 40 in hackathon building the backend of "CreditMatchAI", using LangGraph, FastAPI & Express.js'
@@ -53,7 +53,7 @@ const Experience = () => {
       title: 'AI Research Assistant',
       company: 'SMU Engaged Learning',
       location: 'Dallas, TX',
-      period: 'August 2024 – May 2024',
+      period: 'August 2024 – May 2025',
       description: [
         'Contributed to SMU LLM accuracy research presented at "Teaching & Learning with AI" conference',
         'Worked with Dr. Monnie McGee on developing NLP research and LLM evaluation methodologies',
@@ -68,7 +68,7 @@ const Experience = () => {
       title: 'Director of Computer Science',
       company: 'Traders@SMU (SMU\'S Quant Finance Program)',
       location: 'Dallas, TX',
-      period: 'December 2024 – May 2024',
+      period: 'December 2024 – May 2025',
       description: [
         'Taught and mentored a cohort of 24 students on Python, Machine Learning, and AI Agents',
         'Delivered live lectures and assignments with lectures posted on YouTube for broader access',
