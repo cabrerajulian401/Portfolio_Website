@@ -3,7 +3,7 @@ import { Calendar, MapPin, ExternalLink } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: 'Full Software Engineer Intern',
+      title: 'Software Engineer Intern',
       company: 'Yendo',
       location: 'Remote, Dallas-Based',
       period: '09/2025 – Present',
