@@ -54,9 +54,8 @@ const Experience = () => {
       period: 'July 2025 – Present (To-Be for Fall 2025)',
       description: [
         'Selected to be the second ever President in Entrepreneurship Club at SMU\'s history (330+ Members)',
-        'Lead Strategy & Vision for growing the entrepreneurship ecosystem at SMU',
-        'Creating Startup workshops for members ranging from AI, customer development, & GTM Strategy',
-        'Launching "The Circuit," a $SMU fund startup competition that will disperse $35k in funds to winning founders'
+        'Launching "The BluePrint," a Fall Startup Program that will disperse $15k in funds to selected junior founders in the cohort',
+        'Creating Startup workshops for members ranging from AI, customer development, & GTM Strategy led by CEO,VCs, & Exited Founders'
       ],
       technologies: ['Leadership', 'Entrepreneurship', 'Strategy', 'Community Building'],
       current: true,

@@ -22,7 +22,7 @@ const About = () => {
             
             <p className="text-lg text-muted-foreground leading-relaxed">
                                  
-              I am currently serving as the President of the Entrepreneurship Club at SMU and CIO of Timio News. I am building a Fall Startup Accelerator program at SMU for undergraduate entrepreneurs and leading product development at Timio News, reaching over 2,000 users. I focus on engineering scalable and impact-driven solutions.
+              I am currently an Fall Software Engineer intern at Yendo & serve as the President of the Entrepreneurship Club at SMU. I am working on refactoring the Backend Codebase at Yendo on the Backend Team to optimize for efficiecy and scalability, and am building a Fall Startup Accelerator program at SMU for undergraduate entrepreneurs.
             </p>
             
             <div className="flex gap-4 pt-4 justify-center overflow-x-auto">
