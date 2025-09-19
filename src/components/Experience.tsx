@@ -18,6 +18,20 @@ const Experience = () => {
       logo: '/timio-logo.png',
       url: 'https://timio.news/'
     },
+    {
+      title: 'Full Software Engineer Intern',
+      company: 'Yendo',
+      location: 'Remote, Dallas-Based',
+      period: '09/2025 – Present',
+      description: [
+        'Selected as Yendo\'s first Software Engineer Intern, contributing to a Series A FinTech Credit Card serving 115,000 users',
+        'Refactoring and optimizing Monolith codebase in Go & SQL to increase runtime efficiency and maintain modularity & consistency with Yendo\'s newest Product Release operating within 2-week agile sprints deploying on AWS'
+      ],
+      technologies: ['Go', 'SQL', 'AWS','Agile Sprints'],
+      current: true,
+      logo: '/Yendo.png',
+      url: 'https://yendo.com/'
+    },
     
     {
       title: 'Capital One Tech Summit | 2nd Place Hackathon Award',
