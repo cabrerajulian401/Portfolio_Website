@@ -8,8 +8,8 @@ const Experience = () => {
       location: 'Remote, Dallas-Based',
       period: '09/2025 – Present',
       description: [
-        'Selected as Yendo\'s first Software Engineer Intern, contributing to a Series A FinTech Credit Card serving 115,000 users',
-        'Refactoring and optimizing Monolith codebase in Go & SQL to increase runtime efficiency and maintain modularity & consistency with Yendo\'s newest Product Release operating within 2-week agile sprints on Backend Engineering Team deploying on AWS'
+        'Selected as Yendo\'s first Intern, contributing to the #1 rated Fintech Startup & #6 top Startup in Dallas serving 115,000 users',
+        'Optimizing Backend performance by refactoring monolith codebase into 203 modular mediators using Go, PostgreSQL, and AWS by modifying HTTP controllers, entities, & use-cases in a mediator design pattern using Clean Architecture within a 2-week agile sprints'
       ],
       technologies: ['Go', 'SQL', 'AWS','Agile Sprints'],
       current: true,
